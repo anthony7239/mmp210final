@@ -1,0 +1,15 @@
+/* css */
+
+/* home page */
+#home {
+    color: white;
+	background-color:black;
+	font-family: sans-serif;
+}
+
+canvas {
+	display:block;
+	margin: 0 auto;
+}
+
+
